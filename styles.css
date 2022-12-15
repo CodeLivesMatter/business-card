@@ -1,0 +1,36 @@
+body {
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.avatar {
+    
+    width: 150px;
+    border: 2px solid goldenrod;
+
+}
+
+.card {
+    width: 400px;
+    margin:auto;
+    
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: gray;
+    text-align: center;
+    border-radius: 25px;
+    border-top: 8px solid goldenrod;
+    border-right: 6px solid gold;
+    border-left: 6px solid goldenrod;
+    border-bottom: 8px solid goldenrod;
+    box-shadow: 8px 8px 5px black;
+
+}  
+
+div {
+    color:whitesmoke;
+    text-decoration-line: underline;
+ 
+    
+}
